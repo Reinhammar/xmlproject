@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE scoretracker SYSTEM "http://xml.csc.kth.se/~dsw/DM2517/project/scoretracker.dtd">
+<scoretracker>
+	<player>
+		<iidxid>10352753</iidxid>
+		<djname>SEPHY</djname>
+	</player>
+	<scores>
+		<song musicid="21008">
+			<title>Insane Techniques</title>
+			<chart>2</chart>
+			<lamp>4</lamp>
+			<exscore>2009</exscore>
+			<link>https://remywiki.com/Insane_Techniques</link>
+		</song>
+		<song musicid="21085">
+			<title>Cleopatrysm</title>
+			<chart>0</chart>
+			<lamp>7</lamp>
+			<exscore>772</exscore>
+			<link>https://remywiki.com/Cleopatrysm</link>
+		</song>
+	</scores>
+</scoretracker>

@@ -1,0 +1,12 @@
+<!ELEMENT scoretracker (player,scores)>
+<!ELEMENT player (iidxid,djname)>
+<!ELEMENT iidxid (#PCDATA)>
+<!ELEMENT djname (#PCDATA)>
+<!ELEMENT scores (song*)>
+<!ELEMENT song (title,chart,lamp,exscore,link)>
+<!ATTLIST song musicid CDATA #REQUIRED>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT chart (#PCDATA)>
+<!ELEMENT lamp (#PCDATA)>
+<!ELEMENT exscore (#PCDATA)>
+<!ELEMENT link (#PCDATA)>
